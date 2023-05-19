@@ -53,7 +53,7 @@ STABLECONTROL, perform setting of some addresses and values regarding USSD and U
 ___
 
 ### Q: Is the code/contract expected to comply with any EIPs? Are there specific assumptions around adhering to those EIPs that Watsons should be aware of?
--
+
 ___
 
 ### Q: Please list any known issues/acceptable risks that should not result in a valid finding.
@@ -61,7 +61,7 @@ Dependence on DAI and Uniswap. (however, risks related to price estimation etc. 
 ___
 
 ### Q: Please provide links to previous audits (if any).
--
+
 ___
 
 ### Q: Are there any off-chain mechanisms or off-chain procedures for the protocol (keeper bots, input validation expectations, etc)?
