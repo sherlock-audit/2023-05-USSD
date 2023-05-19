@@ -50,10 +50,12 @@ ___
 
 ### Q: Are there any additional protocol roles? If yes, please explain in detail:
 STABLECONTROL, perform setting of some addresses and values regarding USSD and USSDRebalancer contract behaviour (realancing treshold, pool address, collateral ratios, base asset address)
+
+None.
 ___
 
 ### Q: Is the code/contract expected to comply with any EIPs? Are there specific assumptions around adhering to those EIPs that Watsons should be aware of?
-
+None.
 ___
 
 ### Q: Please list any known issues/acceptable risks that should not result in a valid finding.
@@ -62,6 +64,7 @@ ___
 
 ### Q: Please provide links to previous audits (if any).
 
+None.
 ___
 
 ### Q: Are there any off-chain mechanisms or off-chain procedures for the protocol (keeper bots, input validation expectations, etc)?
